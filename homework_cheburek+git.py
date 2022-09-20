@@ -72,8 +72,8 @@ slaid2 = '''
 for i in range(4):
     os.system('cls')
     print(slaid1)
-    time.sleep(1)
+    time.sleep(2)
 
     os.system('cls')
     print(slaid2)
-    time.sleep(1)
+    time.sleep(2)
